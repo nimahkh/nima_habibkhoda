@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{Gj01:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n);a.default=function(e){var a=e.summary;return r.a.createElement("div",{className:"yui-gf"},r.a.createElement("div",{className:"yui-u first"},r.a.createElement("h2",null,"Profile")),r.a.createElement("div",{className:"yui-u"},r.a.createElement("p",{className:"enlarge"},a)))}}}]);
+//# sourceMappingURL=component---src-pages-index-profile-and-skills-summary-index-js-698b468010b93fa90cf9.js.map
